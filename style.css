@@ -1,0 +1,33 @@
+h1 {
+  font-family: Arial, sans-serif;
+  color: darkgoldenrod;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  color: darkred;
+}
+
+h3 {
+  font-family: 'Courier New', monospace;
+  color: navy;
+}
+
+h4 {
+  font-family: Verdana, sans-serif;
+  color: teal;
+}
+
+p {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.5;
+  width: 80%;
+  margin: 10px 0;
+}
+
+.tut {
+  width: 300px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
