@@ -1,0 +1,25 @@
+<html>
+<head>
+  <title>Tutankhamun</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Tutankhamun</h1>
+
+  <h2>Who Was He?</h2>
+  <p>Tutankhamun was a young pharaoh of ancient Egypt. He ruled during the 18th dynasty and became famous because his tomb was discovered almost intact in 1922.</p>
+
+  <h3>His Tomb Discovery</h3>
+  <p>Howard Carter found Tutankhamun’s tomb in the Valley of the Kings. Inside were treasures, statues, and the famous golden mask.</p>
+
+  <h4>Interesting Facts</h4>
+  <ul>
+    <li>He became pharaoh at around 9 years old.</li>
+    <li>His tomb had over 5,000 artifacts.</li>
+    <li>His death is still a mystery to historians.</li>
+  </ul>
+
+  <h2>Golden Mask</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/512px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg" class="tut">
+</body>
+</html>
